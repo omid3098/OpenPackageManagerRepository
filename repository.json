@@ -27,6 +27,13 @@
             "packageName": "CrystalAI",
             "version": "v1.1.0",
             "author": "igiagkiozis"
+        },
+        {
+            "name": "SabreCSG",
+            "description": "Level design tools for Unity ",
+            "packageName": "SabreCSG",
+            "version": "v1.7.2",
+            "author": "sabresaurus"
         }
     ],
     "server": "https://github.com/"
