@@ -18,7 +18,7 @@
             "name": "UnitySteer",
             "description": "Steering, obstacle avoidance and path following behaviors for the Unity Game Engine https://numergent.com/tags/unitysteer",
             "packageName": "UnitySteer",
-            "version": "3.1",
+            "version": "v3.1",
             "author": "ricardojmendez"
         }
     ],
