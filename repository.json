@@ -34,13 +34,6 @@
             "packageName": "SabreCSG",
             "version": "v1.7.2",
             "author": "sabresaurus"
-        },
-        {
-            "name": "PlayGames plugin for Unity",
-            "description": "Google Play Games plugin for Unity",
-            "packageName": "play-games-plugin-for-unity",
-            "version": "v0.9.50",
-            "author": "playgameservices"
         }
     ],
     "server": "https://github.com/"
