@@ -20,6 +20,13 @@
             "packageName": "UnitySteer",
             "version": "v3.1",
             "author": "ricardojmendez"
+        },
+        {
+            "name": "CrystalAI",
+            "description": "A Utility AI for C# and Unity",
+            "packageName": "CrystalAI",
+            "version": "v1.1.0",
+            "author": "igiagkiozis"
         }
     ],
     "server": "https://github.com/"
