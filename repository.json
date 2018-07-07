@@ -4,35 +4,30 @@
             "name": "Open Audio",
             "description": "singleton audio manager for unity",
             "packageName": "OpenAudio",
-            "version": "1.0.0",
             "author": "omid3098"
         },
         {
             "name": "Open Framework",
             "description": " A Lightweight framework for unity.",
             "packageName": "OpenFramework",
-            "version": "1.0.0",
             "author": "omid3098"
         },
         {
             "name": "UnitySteer",
             "description": "Steering, obstacle avoidance and path following behaviors for the Unity Game Engine https://numergent.com/tags/unitysteer",
             "packageName": "UnitySteer",
-            "version": "v3.1",
             "author": "ricardojmendez"
         },
         {
             "name": "CrystalAI",
             "description": "A Utility AI for C# and Unity",
             "packageName": "CrystalAI",
-            "version": "v1.1.0",
             "author": "igiagkiozis"
         },
         {
             "name": "SabreCSG",
             "description": "Level design tools for Unity ",
             "packageName": "SabreCSG",
-            "version": "v1.7.2",
             "author": "sabresaurus"
         }
     ],
