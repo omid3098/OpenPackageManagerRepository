@@ -1,8 +1,8 @@
 # OpenPackageManagerRepository
 
 ## How to add my own package to the list?
-- you need to have a github repository for your asset.
-- your github repository should not be a Unity project. it sould only contain your package data.
+- you need to have a github repository for your asset. (source code or compiled assets)
+- your github repository SHOULD NOT be a Unity project. it sould only contain your package data. 
 you can compare [a valid repository](https://github.com/omid3098/OpenAudio) with [an invalid](https://github.com/omid3098/OpenWatcher) one
 
 ![image](https://user-images.githubusercontent.com/6388730/42286418-10a8bf78-7fc8-11e8-94e7-318a7afa3525.png)
