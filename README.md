@@ -34,4 +34,4 @@ Example:
         }
 ```
 
-[Check sample issue](https://github.com/omid3098/OpenPackageManager/issues/1)
+[Check sample issue](https://github.com/omid3098/OpenPackageManagerRepository/issues/1)
