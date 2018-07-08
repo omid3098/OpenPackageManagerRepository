@@ -35,3 +35,9 @@ Example:
 ```
 
 [Check sample issue](https://github.com/omid3098/OpenPackageManagerRepository/issues/1)
+
+
+# Roadmanp:
+- support dependency
+- support packages without download link
+- support categories and tags
