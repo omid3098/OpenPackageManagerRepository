@@ -1,4 +1,7 @@
 {
+    "standardPackages": [
+        "omid3098/OpenAudio"
+    ],
     "packages": [
         {
             "name": "Open Audio",
