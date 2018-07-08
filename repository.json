@@ -13,6 +13,12 @@
             "author": "omid3098"
         },
         {
+            "name": "Open Terminal",
+            "description": "Open Terminal for Unity3D. execute your commands in runtime!",
+            "packageName": "OpenTerminal",
+            "author": "omid3098"
+        },
+        {
             "name": "UnitySteer",
             "description": "Steering, obstacle avoidance and path following behaviors for the Unity Game Engine https://numergent.com/tags/unitysteer",
             "packageName": "UnitySteer",
