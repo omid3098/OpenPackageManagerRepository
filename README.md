@@ -40,28 +40,28 @@ Example:
 ## categories: 
 - 2D
 - 3D
-- Audio
-- Tools
-- + AI
-- + Animation
-- + Audio
-- + Camera
-- + GUI
-- + Input management
-- + Integration
-- + Level Design
-- + Localization
-- + Modeling
-- + Network
-- + Painting
-- + Particle and Effects
-- + Physics
-- + Sprite Management
-- + Terrain
-- + Utilities
-- + Video
-- + Visual Scripting
-- VFX
+- audio
+- tools
+- + ai
+- + animation
+- + audio
+- + camera
+- + gui
+- + input-management
+- + integration
+- + level-design
+- + localization
+- + modeling
+- + network
+- + painting
+- + particle and Effects
+- + physics
+- + sprite-management
+- + terrain
+- + utilities
+- + video
+- + visual-scripting
+- vfx
 
 # Roadmanp:
 - update standards. each repository need to have a .openpackage file in root directory and package manager should pars them.
