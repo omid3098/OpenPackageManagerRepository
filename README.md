@@ -38,6 +38,7 @@ Example:
 
 
 # Roadmanp:
+- update standards. each repository need to have a .openpackage file in root directory and package manager should pars them.
 - support dependency
 - support packages without download link
 - support categories and tags
