@@ -12,27 +12,7 @@ you can compare [a valid repository](https://github.com/omid3098/OpenAudio) with
 issue title: [NewPackage] Package name
 issue content: 
 
-anything you want to say + repository github link + this Json:
-
-```
-        {
-            "name": "Package display name",
-            "description": "Package description",
-            "packageName": "Github repository name",
-            "version": "Latest released version in github",
-            "author": "Your Github username"
-        }
-```
-Example: 
-```
-        {
-            "name": "Open Audio",
-            "description": "An easy to use audio manager for unity",
-            "packageName": "OpenAudio",
-            "version": "1.0.0",
-            "author": "omid3098"
-        }
-```
+anything you want to say + repository github link 
 
 [Check sample issue](https://github.com/omid3098/OpenPackageManagerRepository/issues/1)
 
