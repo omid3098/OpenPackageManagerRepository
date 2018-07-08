@@ -41,12 +41,6 @@
             "description": "Unity  Post Processing Stack",
             "packageName": "PostProcessing",
             "author": "Unity-Technologies"
-        },
-        {
-            "name": "Unity ShaderGraph",
-            "description": "Unity ShaderGraph project",
-            "packageName": "ShaderGraph",
-            "author": "Unity-Technologies"
         }
     ],
     "server": "https://github.com/"
