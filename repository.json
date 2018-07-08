@@ -3,33 +3,12 @@
         "omid3098/OpenAudio",
         "omid3098/OpenFramework",
         "omid3098/OpenTerminal",
-        "ricardojmendez/UnitySteer"
+        "ricardojmendez/UnitySteer",
+        "igiagkiozis/CrystalAI",
+        "sabresaurus/SabreCSG",
+        "Unity-Technologies/PostProcessing",
+        "sschmid/Entitas-CSharp"
     ],
-    "packages": [
-        {
-            "name": "CrystalAI",
-            "description": "A Utility AI for C# and Unity",
-            "packageName": "CrystalAI",
-            "author": "igiagkiozis"
-        },
-        {
-            "name": "SabreCSG",
-            "description": "Level design tools for Unity ",
-            "packageName": "SabreCSG",
-            "author": "sabresaurus"
-        },
-        {
-            "name": "Unity PostProcessing",
-            "description": "Unity  Post Processing Stack",
-            "packageName": "PostProcessing",
-            "author": "Unity-Technologies"
-        },
-        {
-            "name": "Entitas",
-            "description": " Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity",
-            "packageName": "Entitas-CSharp",
-            "author": "sschmid"
-        }
-    ],
+    "packages": [],
     "server": "https://github.com/"
 }
