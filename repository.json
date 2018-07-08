@@ -1,32 +1,11 @@
 {
     "standardPackages": [
-        "omid3098/OpenAudio"
+        "omid3098/OpenAudio",
+        "omid3098/OpenFramework",
+        "omid3098/OpenTerminal",
+        "ricardojmendez/UnitySteer",
     ],
     "packages": [
-        {
-            "name": "Open Audio",
-            "description": "singleton audio manager for unity",
-            "packageName": "OpenAudio",
-            "author": "omid3098"
-        },
-        {
-            "name": "Open Framework",
-            "description": " A Lightweight framework for unity.",
-            "packageName": "OpenFramework",
-            "author": "omid3098"
-        },
-        {
-            "name": "Open Terminal",
-            "description": "Open Terminal for Unity3D. execute your commands in runtime!",
-            "packageName": "OpenTerminal",
-            "author": "omid3098"
-        },
-        {
-            "name": "UnitySteer",
-            "description": "Steering, obstacle avoidance and path following behaviors for the Unity Game Engine https://numergent.com/tags/unitysteer",
-            "packageName": "UnitySteer",
-            "author": "ricardojmendez"
-        },
         {
             "name": "CrystalAI",
             "description": "A Utility AI for C# and Unity",
