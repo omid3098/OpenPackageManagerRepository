@@ -37,6 +37,32 @@ Example:
 [Check sample issue](https://github.com/omid3098/OpenPackageManagerRepository/issues/1)
 
 
+## categories: 
+- 2D
+- 3D
+- Audio
+- Tools
+- + AI
+- + Animation
+- + Audio
+- + Camera
+- + GUI
+- + Input management
+- + Integration
+- + Level Design
+- + Localization
+- + Modeling
+- + Network
+- + Painting
+- + Particle and Effects
+- + Physics
+- + Sprite Management
+- + Terrain
+- + Utilities
+- + Video
+- + Visual Scripting
+- VFX
+
 # Roadmanp:
 - update standards. each repository need to have a .openpackage file in root directory and package manager should pars them.
 - support dependency
