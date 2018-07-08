@@ -41,6 +41,12 @@
             "description": "Unity  Post Processing Stack",
             "packageName": "PostProcessing",
             "author": "Unity-Technologies"
+        },
+        {
+            "name": "Entitas",
+            "description": " Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity",
+            "packageName": "Entitas-CSharp",
+            "author": "sschmid"
         }
     ],
     "server": "https://github.com/"
