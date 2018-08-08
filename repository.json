@@ -1,5 +1,5 @@
 {
-    "standardPackages": [
+    "packages": [
         "omid3098/OpenAudio",
         "omid3098/OpenFramework",
         "omid3098/OpenTerminal",
@@ -9,8 +9,6 @@
         "igiagkiozis/CrystalAI",
         "sabresaurus/SabreCSG",
         "Unity-Technologies/PostProcessing",
-        "sschmid/Entitas-CSharp"
-    ],
-    "packages": [],
+        "sschmid/Entitas-CSharp"],
     "server": "https://github.com/"
 }
