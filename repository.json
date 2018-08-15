@@ -9,6 +9,8 @@
         "igiagkiozis/CrystalAI",
         "sabresaurus/SabreCSG",
         "Unity-Technologies/PostProcessing",
-        "sschmid/Entitas-CSharp"],
+        "sschmid/Entitas-CSharp",
+        "yasirkula/UnityAssetUsageDetector"
+    ],
     "server": "https://github.com/"
 }
